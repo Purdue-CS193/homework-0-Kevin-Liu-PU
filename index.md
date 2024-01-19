@@ -1,7 +1,7 @@
 # Zixian Liu's First CS193 Homework
 ## Welcome to GitHub Pages
 
-- Studying how to use Github and other tools
+- Study how to use Github and other tools
 - Know some new tech
 - Discuss with other classmates about how to master a programing language
 
