@@ -1,9 +1,10 @@
 # Zixian Liu's First CS193 Homework
-## Welcome to GitHub Pages
 
 - Study how to use Github and other tools
 - Know some new tech
 - Discuss with other classmates about how to master a programing language
+  
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
